@@ -1,0 +1,14 @@
+<< help.txt: 짧은 프로그램 도움말 파일 >>
+github로 관리한다.
+
+< ubuntu >
+touch help.txt - file generation
+
+< git >
+
+
+< vim >
+mode: esc, i, :,
+save&quit: :q, :wq, :wq!, ..,  
+move: h,j,k,l
+
