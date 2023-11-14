@@ -5,6 +5,8 @@ github로 관리한다.
 touch help.txt - file generation
 
 < git >
+https://git-scm.com/book/ko/v2
+git add -> commit -> push 
 
 
 < vim >
