@@ -7,6 +7,9 @@ touch help.txt - file generation
 < git >
 https://git-scm.com/book/ko/v2
 git add -> commit -> push 
+soo@DESKTOP-SVS9TIF:~/helptxt$ git remote add origin https://github.com/bitcoda/myhelp.git
+soo@DESKTOP-SVS9TIF:~/helptxt$ git branch -M main
+soo@DESKTOP-SVS9TIF:~/helptxt$ git push -u origin main
 
 
 < vim >
